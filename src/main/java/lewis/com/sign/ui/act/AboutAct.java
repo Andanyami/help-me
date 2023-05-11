@@ -35,7 +35,7 @@ public class AboutAct extends BaseActivity {
         tvTitle.setText("关于");
 
     }
-//
+
     @Override
     public void initData() {
 
